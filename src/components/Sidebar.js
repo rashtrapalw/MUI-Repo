@@ -68,6 +68,12 @@ const Sidebar = () => {
           </ListItemIcon>
           <ListItemText primary="Calender" />
         </ListItem>
+        <ListItem button>
+          <ListItemIcon>
+            <HomeIcon sx={{ color: "black" }} />
+          </ListItemIcon>
+          <ListItemText primary="My Purchases" />
+        </ListItem>
         
       </List>
     </Box>
