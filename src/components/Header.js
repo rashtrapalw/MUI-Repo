@@ -10,10 +10,10 @@ function Header() {
         </Typography>
         <Button color="inherit">About</Button>
         <Button color="inherit">Team</Button>
-        <Button color="inherit">Portfolio</Button>
-        <Button color="inherit">Corporate Partners</Button>
-        <Button color="inherit">Insights</Button>
-        <Button color="inherit">Investor Portal</Button>
+        <Button color="inherit">Announcement</Button>
+        <Button color="inherit">My cources</Button>
+        <Button color="inherit">Exam</Button>
+        <Button color="inherit">Certification</Button>
       </Toolbar>
     </AppBar>
   );
